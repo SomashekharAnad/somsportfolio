@@ -556,7 +556,7 @@ function init() {
   new ParticleSphere();
   const tw = new TypeWriter(
     document.querySelector('.hero-role'),
-    ['Application Engineer', 'IIoT Architect', 'DCS/SCADA Expert', 'Edge Computing Engineer', 'Automation Specialist']
+    ['Research and Development Engineer', 'IIoT Architect', 'DCS/SCADA Expert', 'Edge Computing Engineer', 'Automation Specialist']
   );
   initScrollProgress();
   initNav();
